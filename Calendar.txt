@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body style=background-color:gray;">
-<h1 style="text-align:center:">My Calendar</h1>
-<p style="color:magenta;">January 2026 - December 2026</p>
-</body>
-</html>
