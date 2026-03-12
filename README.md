@@ -9,6 +9,5 @@
     <p>Do not forget to buy <mark>milk</mark> today.</p>
     <p>The chemical formula for water is: H<sub>2</sub>O</p>
     <p>My favorite color is <del>blue</del> red.</p>
-    <p><small>This is a small text. </small></p>
   </body>
 </html>
