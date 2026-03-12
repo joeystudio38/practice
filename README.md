@@ -2,7 +2,7 @@
 <html>
   <body>
     <h1>My First Heading</h1>
-    <p style="text-align:center;">My first paragraph. </p>
+    <p>My first paragraph. </p>
     <p><i>This is a sample text. </i></p>
     <p>This is an <strong>important</strong> message.</p>
     <p>Please read <i>carefully. </i></p>
